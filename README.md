@@ -3,6 +3,8 @@ The application simulates a small chat for two users: 1 - You create, 2 - by def
 
 Enjoy your use!
 
+![image](https://user-images.githubusercontent.com/53310434/225983899-61e93cf6-ca8b-4767-82e1-168f7c3f4c08.png)
+
 ## Project Setup
 
 ```sh
